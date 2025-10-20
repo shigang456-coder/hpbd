@@ -33,7 +33,7 @@ const texts = [
   "2",
   "1",
   "🎂",
-  "21-10-2006", //Day of birth
+  "24-10-2006", //Day of birth
   "HAPPY BIRTHDAY", 
   "NGUYỄN TƯỜNG VI", //BẠN Dũng
   "CHÚC BẠN THÂN MẾN",
@@ -228,3 +228,4 @@ lastChangeTime = Date.now();
 lastCharTime = Date.now();
 
 setInterval(drawMatrixRain, 50);
+
